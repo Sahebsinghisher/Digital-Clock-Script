@@ -10,7 +10,7 @@ This repository contains a simple Bash script that displays a digital clock in t
 #)Usage
 Clone the repository:
 bash-
-$git clone https://github.com/yourusername/Digital-Clock-Script.git
+$git clone https://github.com/Sahebsinghisher/Digital-Clock-Script
 Navigate to the directory:
 
 bash
